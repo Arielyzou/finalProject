@@ -2,8 +2,7 @@
 Final Project for E4501-001, Group11
 
 ## Member
-Yueyang Dai, yd2546
-Yue Zou, yz4200
+Yueyang Dai, yd2546; Yue Zou, yz4200
 
 ## Contents
 The project is based on calls to 311.
